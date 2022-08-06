@@ -8,14 +8,14 @@ import Uranoimg from '../images/Urano.png';
 import Netunoimg from '../images/Netuno.png';
 
 const Planets = [
-  { name: 'Mercúrio', image: MercurioImg },
-  { name: 'Vênus', image: VenusImg },
-  { name: 'Terra', image: TerraImg },
-  { name: 'Marte', image: MarteImg },
-  { name: 'Júpiter', image: JupiterImg },
-  { name: 'Saturno', image: SaturnoImg },
-  { name: 'Urano', image: Uranoimg },
-  { name: 'Netuno', image: Netunoimg },
+  { name: 'Mercúrio', image: MercurioImg, tamanho: '40' },
+  { name: 'Vênus', image: VenusImg, tamanho: '80' },
+  { name: 'Terra', image: TerraImg, tamanho: '100' },
+  { name: 'Marte', image: MarteImg, tamanho: '50' },
+  { name: 'Júpiter', image: JupiterImg, tamanho: '220' },
+  { name: 'Saturno', image: SaturnoImg, tamanho: '260' },
+  { name: 'Urano', image: Uranoimg, tamanho: '120' },
+  { name: 'Netuno', image: Netunoimg, tamanho: '105' },
 ];
 
 export default Planets;
