@@ -12,4 +12,4 @@ de array, objetos e HOF's.
 ```git clone git@github.com:thaimorais/Projeto-Sistema-Solar.git```
 * Instale as depedências:
 ```npm install```
-* Abra seu editor e execute a aplicação
+* Execute a aplicação: ```npm start```
