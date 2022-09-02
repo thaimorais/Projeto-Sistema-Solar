@@ -7,7 +7,7 @@ de array, objetos e HOF's.
 
 # Como visualizar o projeto
 * Clone o repositório:
-```git clone ```
+```git clone git@github.com:thaimorais/Projeto-Sistema-Solar.git```
 * Instale as depedências:
 ```npm install```
 * Execute a aplicação:
