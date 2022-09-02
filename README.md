@@ -6,8 +6,9 @@ Modelo de sistema solar renderizando todos os planetas e algumas das principais 
 de array, objetos e HOF's.
 
 # Como visualizar o projeto
-* Clone o repositório;
-* Instale as depedências;
+* Clone o repositório:
+```git clone ```
+* Instale as depedências:
 ```npm install```
-* Execute a aplicação
+* Execute a aplicação:
 ```npm start```
